@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    margin-left: '200px';
+    align-items: 'center';
+    justify-content: 'center';
+    z-index: 2;
+    background-color: #fff;
+    opacity: .9;
+    position: absolute;
+    /* top: 4px; */
+    height: 70px;
+    width: 100%;
+}
+
+.header_logo {
+    margin-top: 16px;
+    margin-left: 22px;
+    display: flex;
+    align-items: 'center';
+    justify-content: 'center';
+}
+
+.headerlogo_name {
+    margin-left: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    /* position: sticky; */
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #333;
+    font-style: normal;
+}
+
+.header_left {
+    display: flex;
+    margin-left: 1050px;
+    margin-top: 22px;
+    cursor: pointer;
+    font-family: Inter,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    /* text-decoration: none; */
+}

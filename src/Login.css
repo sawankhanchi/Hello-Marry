@@ -1,0 +1,149 @@
+.login {
+    margin-left: 500px;
+}
+
+.login_header > p {
+    display: flex;
+    font-size: 18px;
+    color: rgb(54, 51, 51);
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 140px;
+    margin-top: -22px;
+}
+
+.login_crossIcon {
+    font-weight: 300px;
+    margin-right: 150px;
+    cursor: 'pointer';
+    margin-top: 40px;
+}
+
+.login_subHeader {
+    margin-top: 8px;
+    margin-bottom: -20px;
+    font-size: 22px;
+    color: rgb(54, 51, 51);
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding-bottom: 36px;
+    padding-top: 34px;
+}
+
+.login_container {
+    display: grid;
+    margin-top: 25px;
+}
+
+.login_continueButton {
+    background: #0071e3;
+    border-radius: 15px;
+    font-size: 17px;
+    color: white;
+    width: 50%;
+    height: 45px;
+    border: 1px solid;
+    margin-top: 30px;
+    cursor: pointer;
+    /* border-color: #a88734 #9c7e31 #846a29; */
+} 
+
+
+
+/* .socalMedia_button:hover {
+    background: blue;
+} */
+
+.form_dropdown_heading {
+    font-size: 14px;
+    line-height: 1.42861;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #666;
+    font-weight: 600;
+    padding-bottom: 2px;
+}
+
+
+
+.dropdown_country_input {
+    font-size: 17px;
+    line-height: 1.23543;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: block;
+    box-sizing: border-box;
+    width: 50%;
+    height: 3.3em;
+    color: #333;
+    padding: 1.11765rem 2.35294rem 0 .94118rem;
+    padding-top: .11765rem;
+    padding-right: 2.35294rem;
+    text-align: left;
+    background: hsla(0,0%,100%,.8);
+    background-clip: border-box;
+    border: 1px solid #d6d6d6;
+    border-radius: 12px;
+    background-clip: padding-box;
+    margin-bottom: 14px;
+    appearance: none;
+    min-height: 32px;
+}
+
+.phone_input {
+    font-size: 17px;
+    line-height: 1.23543;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: block;
+    box-sizing: border-box;
+    width: 50%;
+    height: 3.3em;
+    color: #333;
+    padding: 1.11765rem 2.35294rem 0 .94118rem;
+    padding-top: .11765rem;
+    padding-right: 2.35294rem;
+    text-align: left;
+    background: hsla(0,0%,100%,.8);
+    background-clip: border-box;
+    border: 1px solid #d6d6d6;
+    border-radius: 12px;
+    background-clip: padding-box;
+    margin-bottom: 14px;
+    appearance: none;
+    min-height: 32px;
+}
+
+.social_buttons_heading {
+    font-family: Inter,sans-serif;
+    font-size: 11px;
+    color: #6D758D;
+    margin-top: 25px;
+    margin-bottom: -25px;
+    margin-left: 150px;
+    letter-spacing: .04em;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.socialMedia_button {
+    background: #f9faff;
+    border-radius: 15px;
+    font-size: 15px;
+    text-align: left !important;
+    color:  #6d758d;
+    border: 1px solid #d6d6d6;
+    width: 15%;
+    height: 3.3em;
+    margin: 6px;
+    margin-top: 35px;
+    margin-bottom: 80px;
+    cursor: pointer;
+}
